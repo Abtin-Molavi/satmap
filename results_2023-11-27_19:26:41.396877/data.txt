@@ -1,0 +1,1 @@
+{'qubits': 3, 'chunks': 1, 'circuit_name': '3_17_13.qasm', 'cost': 0, 'time_wbo': 0.0023810000000001885, 'arch': 'tokyo'}
