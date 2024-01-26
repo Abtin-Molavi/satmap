@@ -1,0 +1,1 @@
+{'qubits': 3, 'chunks': 1, 'circ': '3_17_13.qasm', 'cnots': 17, 'swaps': 0, 'solve_time': 0.0685570240020752, 'algorithm': 'satmap_classic', 'arch': 'tokyo'}
